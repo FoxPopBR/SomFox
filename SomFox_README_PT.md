@@ -1,6 +1,6 @@
 # Projeto SomFox: Visualizador de Som Dinâmico
 
-![SomFox]("C:/Phantasy/Beta/SomFox/asset/SomFox.jpg")
+![SomFox]("https://raw.githubusercontent.com/FoxPopBR/SomFox/main/asset/SomFox.jpg")
 
 O SomFox é um aplicativo projetado para transformar áudio captado em tempo real pelo microfone em uma experiência visual interativa e envolvente. Este visualizador de som se destaca por criar uma faixa de fileiras de blocos personalizável que se iluminam e se movem em harmonia com as ondas sonoras captadas, funcionando como um equalizador visual do som ambiente.
 
