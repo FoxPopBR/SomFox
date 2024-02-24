@@ -1,0 +1,9 @@
+pyaudio==0.2.14
+json==2.16.2
+ast==0.7.12
+pygame_gui==0.6.9
+pathlib==1.0.1
+numpy==1.26.2
+pygame==2.5.2
+os==1.2.0
+re==2.7.0
